@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Clean Waving Header - Name stays on ONE line -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6c63ff,50:a855f7,100:ec4899&height=200&section=header&text=Jerrick%20Austin&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6c63ff,50:a855f7,100:ec4899&height=200&section=header&text=Jerrick%20Austin%20Manuel%20G&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=38"/>
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=800&color=A855F7&center=true&vCenter=true&repeat=true&width=700&height=45&lines=%E2%9A%A1+Turning+Ideas+Into+Intelligent+Systems;%F0%9F%94%AE+Quantum+ML+%C2%B7+Vision+AI+%C2%B7+Smart+Agents;%F0%9F%8E%AF+Code+%C2%B7+Create+%C2%B7+Conquer" alt="Typing SVG" /></a>
