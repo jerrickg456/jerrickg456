@@ -1,23 +1,23 @@
 <div align="center">
 
-<!-- Clean Waving Header - Name stays on ONE line -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6c63ff,50:a855f7,100:ec4899&height=200&section=header&text=Jerrick%20Austin%20Manuel%20G&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=38"/>
+<!-- RE9 Leon Theme - Dark Blood Red Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,30:1a0000,60:7f1d1d,100:dc2626&height=200&section=header&text=Jerrick%20Austin%20Manuel%20G&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=38"/>
 
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=800&color=A855F7&center=true&vCenter=true&repeat=true&width=700&height=45&lines=%E2%9A%A1+Turning+Ideas+Into+Intelligent+Systems;%F0%9F%94%AE+Quantum+ML+%C2%B7+Vision+AI+%C2%B7+Smart+Agents;%F0%9F%8E%AF+Code+%C2%B7+Create+%C2%B7+Conquer" alt="Typing SVG" /></a>
+<!-- Typing Animation - RE Red Theme -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=800&color=DC2626&center=true&vCenter=true&repeat=true&width=700&height=45&lines=%E2%9A%A1+Turning+Ideas+Into+Intelligent+Systems;%F0%9F%94%AE+Quantum+ML+%C2%B7+Vision+AI+%C2%B7+Smart+Agents;%F0%9F%8E%AF+Code+%C2%B7+Create+%C2%B7+Conquer;%F0%9F%8E%AE+Survival+Instincts+%C2%B7+Applied+to+Code" alt="Typing SVG" /></a>
 
 <br/>
 
-<!-- Social Badges -->
-[![GitHub followers](https://img.shields.io/github/followers/jerrickg456?logo=github&style=for-the-badge&color=a855f7&labelColor=0d1117)](https://github.com/jerrickg456)
+<!-- Social Badges - Blood Red -->
+[![GitHub followers](https://img.shields.io/github/followers/jerrickg456?logo=github&style=for-the-badge&color=dc2626&labelColor=0a0a0a)](https://github.com/jerrickg456)
 &nbsp;
-![Profile Views](https://komarev.com/ghpvc/?username=jerrickg456&style=for-the-badge&color=ec4899&label=VISITORS)
+![Profile Views](https://komarev.com/ghpvc/?username=jerrickg456&style=for-the-badge&color=7f1d1d&label=VISITORS)
 &nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-jerrickaustinm-ec4899?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:jerrickaustinm@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-jerrickaustinm-dc2626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a)](mailto:jerrickaustinm@gmail.com)
 
 </div>
 
-<!-- Rainbow Divider -->
+<!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">&nbsp; Who Am I?
@@ -103,16 +103,16 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=jerrickg456&show_icons=true&hide_border=true&border_radius=15&bg_color=0d1117&title_color=a855f7&icon_color=ec4899&text_color=c9d1d9&ring_color=a855f7&count_private=true&include_all_commits=true" alt="Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=jerrickg456&hide_border=true&border_radius=15&background=0D1117&ring=A855F7&fire=EC4899&currStreakLabel=A855F7&sideLabels=C9D1D9&dates=8B949E&currStreakNum=EC4899&sideNums=C9D1D9" alt="Streak"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=jerrickg456&show_icons=true&hide_border=true&border_radius=15&bg_color=0d1117&title_color=dc2626&icon_color=b91c1c&text_color=c9d1d9&ring_color=dc2626&count_private=true&include_all_commits=true" alt="Stats"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=jerrickg456&hide_border=true&border_radius=15&background=0D1117&ring=DC2626&fire=FF4444&currStreakLabel=DC2626&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FF4444&sideNums=C9D1D9" alt="Streak"/>
 
 <br/><br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerrickg456&layout=donut-vertical&hide_border=true&border_radius=15&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&langs_count=8" alt="Languages"/>
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerrickg456&layout=donut-vertical&hide_border=true&border_radius=15&bg_color=0d1117&title_color=dc2626&text_color=c9d1d9&langs_count=8" alt="Languages"/>
 
 <br/><br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=jerrickg456&bg_color=0d1117&color=a855f7&line=ec4899&point=ffffff&area=true&area_color=a855f7&hide_border=true&custom_title=%E2%9A%A1%20Contribution%20Timeline" alt="Activity Graph"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=jerrickg456&bg_color=0d1117&color=dc2626&line=ff4444&point=ffffff&area=true&area_color=7f1d1d&hide_border=true&custom_title=%F0%9F%94%A5%20Contribution%20Timeline" alt="Activity Graph"/>
 
 </div>
 
@@ -121,7 +121,7 @@
 ## 🏆 Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jerrickg456&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=jerrickg456&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="Trophies"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -148,16 +148,16 @@
 ### ⚡ Let's Build Something That Matters
 
 <a href="mailto:jerrickaustinm@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-jerrickaustinm-EC4899?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Gmail"/>
+  <img src="https://img.shields.io/badge/Gmail-jerrickaustinm-DC2626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" alt="Gmail"/>
 </a>
 &nbsp;
 <a href="https://github.com/jerrickg456">
-  <img src="https://img.shields.io/badge/GitHub-jerrickg456-A855F7?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-jerrickg456-DC2626?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a" alt="GitHub"/>
 </a>
 
 <br/><br/>
 
-<!-- Clean Waving Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6c63ff,50:a855f7,100:ec4899&height=120&section=footer"/>
+<!-- RE Blood Red Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,30:1a0000,60:7f1d1d,100:dc2626&height=120&section=footer"/>
 
 </div>
